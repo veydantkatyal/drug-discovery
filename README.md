@@ -46,7 +46,7 @@ cd drug-discovery
 jupyter notebook
 ```
 
-**3. Open `notebooks/Drug_Discovery_Model.ipynb` and run the cells.**
+**3. Open `/notebooks` and run the cells within python notebook.**
 
 ## Future Work
 - Incorporate deep learning (Graph Neural Networks) for molecular representation
